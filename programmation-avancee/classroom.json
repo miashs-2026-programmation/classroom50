@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Programmation avancee - MIASHS 2026-2027",
+  "short_name": "programmation-avancee",
+  "term": "2026-2027",
+  "org": "miashs-2026-programmation",
+  "team": {
+    "id": 19270685,
+    "slug": "classroom50-programmation-avancee"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19270686,
+      "slug": "classroom50-programmation-avancee-teacher"
+    },
+    "hta": {
+      "id": 19270687,
+      "slug": "classroom50-programmation-avancee-hta"
+    },
+    "ta": {
+      "id": 19270688,
+      "slug": "classroom50-programmation-avancee-ta"
+    }
+  }
+}
