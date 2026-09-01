@@ -18,6 +18,25 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true
+    },
+    {
+      "slug": "projet-final",
+      "name": "Projet final",
+      "template": {
+        "owner": "miashs-2026-programmation",
+        "repo": "projet-final-template",
+        "branch": "main"
+      },
+      "due": "2026-11-17T21:59:00Z",
+      "due_meta": {
+        "input": "2026-11-17T23:59:00+02:00",
+        "offset": "+02:00",
+        "source": "explicit-offset"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "student_permission": "admin"
     }
   ]
 }
